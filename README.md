@@ -75,4 +75,6 @@ This repository is updated routinely to reflect:
 
 ## 📬 Connect
 
+🌐 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/himendra-gusain?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+🔗 **LeetCode**: [Check out my LeetCode Profile](https://leetcode.com/u/Himendra11/)
 Feel free to reach out or explore discussions around Java-based problem-solving.
